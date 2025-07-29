@@ -8,4 +8,4 @@ Analista de dados em transição de carreira. Tomando decisões com dados.
 
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaturmena&repo=cartorioEBAC.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daianaturmena&repo=daianaturmena.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
